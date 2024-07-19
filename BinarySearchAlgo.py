@@ -1,5 +1,3 @@
-
-
 def BinarySearch(arr, tar):
     first = 0
     last = len(arr)
